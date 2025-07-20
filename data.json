@@ -3,12 +3,12 @@
     "title": "India vs Australia",
     "status": "Live Now",
     "poster": "https://placehold.co/600x300/000000/00ffcc?text=India+vs+Australia",
-    "channel": "home/channel1"
+    "channel": "channel1"
   },
   {
     "title": "England vs Pakistan",
     "status": "Live Now",
     "poster": "https://placehold.co/600x300/000000/00ffcc?text=England+vs+Pakistan",
-    "channel": "home/channel2"
+    "channel": "channel2"
   }
 ]
